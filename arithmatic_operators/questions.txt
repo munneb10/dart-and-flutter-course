@@ -1,0 +1,31 @@
+Question no 1:
+Write a program to print sum,division,multiplication,subtraction
+of 10 and 2
+a) By directly using 10 and 2
+b) By using variables
+    ( Hint : First save number in variable and then
+    perform operation also store answer in variable
+    )
+
+Question no 2:
+write a program in which solve (a*a+b/2)-10 where a=10,b=20
+Save answer in some variable and print it
+
+Question no 3:
+write a program to solve a^2-2ab+b^2 where a=2,b=2
+
+Question no 4:
+write a program to print remainder after dividing 35 by 2
+a) By directly using 35 and 2
+b) By using variables
+    ( Hint : First save number in variable and then
+    perform operation also store answer in variable
+    )
+
+Question no 5:
+write a program to increase number by one (e.g change 3 to 4)
+by using some operator
+a) By using variables
+    ( Hint : First save number in variable and then
+    perform operation to increase by one
+    )
